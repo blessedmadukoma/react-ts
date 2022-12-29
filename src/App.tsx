@@ -1,8 +1,7 @@
+import Heading from "./components/Heading"
 function App() {
-  
-
   return (
-    <h1>Hello for now</h1>
+    <Heading title="Hello" />
   )
 }
 
